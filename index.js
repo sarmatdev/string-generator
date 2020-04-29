@@ -1,5 +1,5 @@
 const fs = require('fs');
-const arrayDepth = 1000000;
+const arrayDepth = 10000000;
 const strings = {
   strings: [],
 };
